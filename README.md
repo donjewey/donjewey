@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 📫  How to reach me: [LinkedIn](https://linkedin.com/in/jonddewey)  
 🌱  I’m currently learning about system design and microservices  
 📦  Co-creator of [GraphQLGate](https://github.com/orgs/oslabs-beta/teams/graph-beaver/repositories) - A rate-limiter and developer portal with query           depth/complexity analysis for Node.js  
-💬  Ask me about anything music and special effects related  
-✨  My hobbies include open-mic nights and surfing (the web and ocean)  
+✨  My hobbies include special effects design, open-mic nights, and surfing (the web and ocean)  
