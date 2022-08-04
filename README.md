@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi! I'm Jon Dewey, my friends call me Dewey
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/jonddewey)
-🌱 I’m currently learning about system design and microservices
-📦 Co-creator of [GraphQLGate](https://github.com/orgs/oslabs-beta/teams/graph-beaver/repositories) - Rate-limiter and developer portal with query depth/complexity analysis for Node.js
-💬 Ask me about anything music and special effects related
-✨ My hobbies include open-mic nights and surfing (the web and ocean)
+👋 Hi! I'm Jon Dewey, my friends call me Dewey  
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/jonddewey)  
+🌱 I’m currently learning about system design and microservices  
+📦 Co-creator of [GraphQLGate](https://github.com/orgs/oslabs-beta/teams/graph-beaver/repositories) - Rate-limiter and developer portal with query depth/complexity analysis for Node.js  
+💬 Ask me about anything music and special effects related  
+✨ My hobbies include open-mic nights and surfing (the web and ocean)  
